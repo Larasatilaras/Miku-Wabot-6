@@ -1,0 +1,2 @@
+# Miku-Wabot-6
+THE LAST SCRIPT OF MIKU-BOT
