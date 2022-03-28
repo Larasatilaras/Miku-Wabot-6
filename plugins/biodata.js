@@ -3,18 +3,18 @@ let handler = async (m, { conn, text }) => {
   let ext= `
 *BIODATA OWNER*
 
-*Nama* : Iyan
-*Umur* : 12
-*Kelas* : 1 Smp
+*Nama* : Laras
+*Umur* : 16
+*Kelas* : 1 smk
 *Status* : Private
 
 *SOSIAL MEDIA*
 
-*instagran* : Private
+*instagran* : @itzmelaras_
 *Facebook* : Private
 *Chanel Youtube* : none
-*Gmail* : KastaraIyan@gmail.com
-*Github* : https://github.com/PlayyBoys
+*Gmail* : laras020103@gmail.com
+*Github* : https://github.com/Larasatilaras
 
 _Oke udah itu aja terimakasih_
 
