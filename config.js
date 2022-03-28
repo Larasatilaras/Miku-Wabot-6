@@ -15,10 +15,10 @@ gc1 = 'https://chat.whatsapp.com/CcHAiR7gDJR0x8EakMsQ0k'
 gc2 = ''
 gc3 = ''
 global.linkGC = ['https://chat.whatsapp.com/CcHAiR7gDJR0x8EakMsQ0k', 'https://chat.whatsap'] // ganti jadi group lu
-global.owner = ['6285742344873','6281214769844'] // Put your number here //owner eval
-global.kontak = ['6285742344873','6281214769844']//Ketika ada yang ngetik #owner
-global.mods = ['62896255561617'] // Want some help?
-global.prems = ['62896255561610'] // Premium user has unlimited limit
+global.owner = ['6285759662798','6285759662798'] // Put your number here //owner eval
+global.kontak = ['6285759662798','6285759662798']//Ketika ada yang ngetik #owner
+global.mods = ['6285759662798'] // Want some help?
+global.prems = ['6285759662798'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   rey: 'https://server-api-rey.herokuapp.com',
@@ -49,20 +49,20 @@ xteamkey = 'Dawnfrostkey'
 namaig = 'GAK ADA :)'
 namagithub = 'Privat Syg'
 kasihcaption = `Nih kak`
-namakontak1 = 'Boss Miku'
-namakontak2 = 'Manager Miku'
+namakontak1 = 'LarasChann'
+namakontak2 = 'LarasXzy'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = '© Miku-Bot' // ganti aja
-global.author = 'Iyann Ganzz' // ganti aja
+global.packname = '© Rasz-Bot' // ganti aja
+global.author = 'LarasChann' // ganti aja
 
 //
-bc = 'Miku-Bot' //Broadcast
-footer = '\n*Miku-Bot By +62 857-4234-4873*\n*Bot Grup: https://tinyurl.com/yapnjvdt*\n*Twitter Owner: https://twitter.com/IyanKastara*'
-namabot = 'Miku-Bot'
-namalu = 'Iyann Ganteng'
+bc = 'Rasz-Bot' //Broadcast
+footer = '\n*Rasz-Bot By +62 857-5966-2798*\n*Bot Grup: https://tinyurl.com/yapnjvdt*\n*Twitter Owner: https://twitter.com/IyanKastara*'
+namabot = 'Rasz-Bot'
+namalu = 'LarasChann'
 
 
 // 
